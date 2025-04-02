@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am a college student studying Java backend development
 
-<img align="right" alt="img" src="https://cdn.jsdelivr.net/gh/KNeegcyao/picdemo/img/image-20250402124006114.png" width="45%" height="80%" />
+<img align="right" alt="img" src="https://cdn.jsdelivr.net/gh/KNeegcyao/picdemo/img/image-20250402124006114.png" width="50%" height="80%" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -22,7 +22,7 @@ Welcome to my Github page! I am a college student studying Java backend developm
 - Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools:  
-<table><tr><td valign="top" width="26%">
+<table><tr><td valign="top" width="25%">
 	
 ##### Frontend  
 <div align="center">  
@@ -33,7 +33,7 @@ Welcome to my Github page! I am a college student studying Java backend developm
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="26%">
+</td><td valign="top" width="25%">
 
 ##### Backend  
 <div align="center">  
