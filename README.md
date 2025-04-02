@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am a college student studying Java backend development
 
-<img align="right" alt="img" src="https://cdn.jsdelivr.net/gh/KNeegcyao/picdemo/img/image-20250402124006114.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://cdn.jsdelivr.net/gh/KNeegcyao/picdemo/img/image-20250402124006114.png" width="40%" height="50%" />
 
 
 #### 🌱 Things I am currently working on: 
