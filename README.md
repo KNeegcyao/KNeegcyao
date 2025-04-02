@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am a college student studying Java backend development
 
-<img align="right" alt="img" src="https://cdn.jsdelivr.net/gh/KNeegcyao/picdemo/img/image-20250402124006114.png" width="40%" height="50%" />
+<img align="right" alt="img" src="https://cdn.jsdelivr.net/gh/KNeegcyao/picdemo/img/image-20250402124006114.png" width="45%" height="80%" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -52,6 +52,6 @@ Welcome to my Github page! I am a college student studying Java backend developm
 <br/>
 
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=KNeegcyao&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=KNeegcyao&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
 
 <br/>  
