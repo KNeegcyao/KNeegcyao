@@ -22,7 +22,7 @@ Welcome to my Github page! I am a college student studying Java backend developm
 - Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools:  
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" width="20%">
 	
 ##### Frontend  
 <div align="center">  
@@ -33,7 +33,7 @@ Welcome to my Github page! I am a college student studying Java backend developm
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
 
 ##### Backend  
 <div align="center">  
