@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![Visitor Count](https://profile-counter.glitch.me/KNeegcyao/count.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KNeegcyao)](https://github.com/KNeegcyao/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KNeegcyao&layout=compact)](https://github.com/KNeegcyao/github-readme-stats)
 <!--
 **KNeegcyao/KNeegcyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
