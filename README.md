@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### This is KNeegcyao!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/KNeegcayo)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/KNeegcyao)
 [![Blog](https://img.shields.io/badge/Blog-blue?style=flat&logo=Linkedin&logoColor=white)](https://kneegcyao.github.io/)
 [![Mail](https://img.shields.io/badge/Mail-green?style=flat&logo=Gmail&logoColor=white)](mailto:zhangchao2903@163.com)
 
