@@ -2,8 +2,10 @@
 ### This is KNeegcyao!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/KNeegcyao)
-[![Blog](https://img.shields.io/badge/Blog-blue?style=flat&logo=Linkedin&logoColor=white)](https://kneegcyao.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-blue?style=flat&logo=Hexo&logoColor=white)](https://kneegcyao.github.io/)
 [![Mail](https://img.shields.io/badge/Mail-green?style=flat&logo=Gmail&logoColor=white)](mailto:zhangchao2903@163.com)
+[![CSDN](https://img.shields.io/badge/CSDN-yellow?style=flat&logo=CSDN&logoColor=white)](https://blog.csdn.net/KNeeg_)
+
 
 Welcome to my Github page! I am a college student studying Java backend development
 
