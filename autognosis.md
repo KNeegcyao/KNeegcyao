@@ -15,7 +15,7 @@ Welcome to my Github page! I am a college student studying Java backend developm
 #### 🌱 Things I am currently working on: 
 - Participate in internship
 - Prepare for the autumn recruitment early
-- Write down my study notes  on [My Blog](https://github.com/KNeegcyao) 🚀 *coming soon*
+- Write down my study notes  on [My Blog](https://kneegcyao.github.io/) 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
 - Go exercise every night and play badminton once a week
