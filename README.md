@@ -36,6 +36,16 @@ Welcome to my Github page! I'm a college student focusing on **Java backend deve
 
 ---
 
+#### ⭐ Featured Projects
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [📖 my-easy-pi](https://github.com/KNeegcyao/my-easy-pi) | 从零学习 AI Coding Agent 的渐进式教程 — 10 章带你逐层理解 Agent 工作原理 | ![Stars](https://img.shields.io/github/stars/KNeegcyao/my-easy-pi?style=flat-square) |
+| [🏪 dianping](https://github.com/KNeegcyao/dianping) | 黑马点评 — 大众点评风格项目，基于 Redis 集群的秒杀/签到/探店系统 | ![Stars](https://img.shields.io/github/stars/KNeegcyao/dianping?style=flat-square) |
+| [⚽ football-AI](https://github.com/KNeegcyao/football-AI) | 多智能体足球赛事论坛 | ![Stars](https://img.shields.io/github/stars/KNeegcyao/football-AI?style=flat-square) |
+
+---
+
 #### 📊 Contributions & Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KNeegcyao&theme=react-dark&area=true&hide_border=true" width="100%" />
